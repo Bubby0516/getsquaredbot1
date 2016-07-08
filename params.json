@@ -1,0 +1,6 @@
+{
+  "name": "Getsquaredbot",
+  "tagline": "",
+  "body": "\r\n<script>\r\nfunction OpenInNewTab(url) {\r\n  var win = window.open(url, '_blank');\r\n}\r\n</script>\r\n<div onclick=\"OpenInNewTab('http://jade.getsquared.xyz/game?name=bot101');\"><h1><i>Create bot?</i></h1></div>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
